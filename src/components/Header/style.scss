@@ -1,0 +1,16 @@
+header{
+    background-color: whitesmoke;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    h1{
+        font-family: 'Roboto Condensed', sans-serif;
+        font-weight: 300;
+        color: #222;
+    }
+    img{
+        height: 50px;
+    }
+}
